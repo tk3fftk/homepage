@@ -34,25 +34,56 @@ exclude:
 
 # Team names, titles and social links
 people:
-- name: Jithin Emmanuel
-  pic: jithin1987
-  position: RESTafarian
-  github: https://github.com/jithin1987
 
-- name: St. John Johnson
-  pic: stjohn
-  position: Galactic Hitchhiker
-  github: https://github.com/stjohnjohnson
+- name: Dao Lam
+  pic: d2lam
+  position: D2
+  github: https://github.com/d2lam
+
+- name: Min Zhang
+  pic: minz1027
+  position: Not Max
+  github: https://github.com/minz1027
 
 - name: Tiffany Kyi
   pic: tkyi
   position: Turtle Addict
   github: https://github.com/tkyi
 
-- name: Dao Lam
-  pic: d2lam
-  position: D2
-  github: https://github.com/d2lam
+- name: Jithin Emmanuel
+  pic: jithin1987
+  position: RESTafarian
+  github: https://github.com/jithin1987
+
+- name: Pranav Ravichandran
+  pic: pranavrc
+  position:
+  github: https://github.com/pranavrc
+
+- name: Filbert Jahja
+  pic: Filbird
+  position:
+  github: https://github.com/Filbird
+
+- name: Zhongtang Tian
+  pic: Zhongtang
+  position:
+  github: https://github.com/Zhongtang
+
+- name: Brian Wang
+  pic: lusol
+  position:
+  github: https://github.com/lusol
+
+- name: Cynthia Xin Li
+  pic: cynthiax
+  position:
+  github: https://github.com/cynthiax
+
+- name: St. John Johnson
+  pic: stjohn
+  position: Galactic Hitchhiker
+  github: https://github.com/stjohnjohnson
 
 - name: Darren Matsumoto
   pic: FenrirUnbound
@@ -64,17 +95,7 @@ people:
   position: Javascript Jedi
   github: https://github.com/petey
 
-- name: Philip Scott
-  pic: ScottyFillups
-  position: King of OC :^)
-  github: https://github.com/ScottyFillups
-
 - name: Jeremiah Wuenschel
   pic: jer
   position: Digital Plumber
   github: https://github.com/jer
-
-- name: Min Zhang
-  pic: minz1027
-  position: Not Max
-  github: https://github.com/minz1027
